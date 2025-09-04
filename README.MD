@@ -1,5 +1,12 @@
-# Projects portafolio
+# Projects portfolio
 
-## HTTP Server
+## Casino Game
 
-I want to create a HTTP Server using C++ to create a restfull API
+Make a casino with different games and credit to multiple players
+
+-   Implement structures
+-   Objects with the different games
+-   Enums with basic info
+-   Poker
+-   Roulette
+-   Own rules with different prices on each game

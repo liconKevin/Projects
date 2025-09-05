@@ -10,3 +10,7 @@ Make a casino with different games and credit to multiple players
 -   Poker
 -   Roulette
 -   Own rules with different prices on each game
+
+New goal
+
+- Make a vector to manage the players with basic info
